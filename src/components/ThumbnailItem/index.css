@@ -1,0 +1,19 @@
+.container {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  opacity: 0.5;
+}
+.thumbnail-Button {
+  background: transparent;
+  border: none;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
+.active {
+  opacity: 1;
+}
